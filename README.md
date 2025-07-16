@@ -1,4 +1,4 @@
-# Data Loss Prevention (DLP) Using AWS Glue And PySpark: Sensitive Data Redaction Pipeline
+# Automated Data Loss Prevention (DLP) Pipeline using AWS Glue and PySpark: Sensitive Data Redaction
 A comprehensive pipeline using AWS Glue and PySpark to perform Data Loss Prevention (DLP) by identifying and redacting sensitive information within datasets.
 
 ## How it works
