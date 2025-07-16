@@ -1,0 +1,6 @@
+id,name,email,phone_number,credit_card,address
+1,John Doe,john.doe@example.com,123-456-7890,1234-5678-9012-3456,123 Main St
+2,Jane Smith,jane.smith@test.org,987-654-3210,9876-5432-1098-7654,456 Oak Ave
+3,Alice Brown,alice.b@domain.net,+1 (555) 123-4567,1111-2222-3333-4444,789 Pine Ln
+4,Bob White,bob.white@mail.com,(111) 222-3333,5555-6666-7777-8888,321 Elm Rd
+5,Charlie Green,charlie.g@service.io,000-111-2222,9999-8888-7777-6666,654 Birch Ct
